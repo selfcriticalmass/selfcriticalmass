@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B46C1&center=true&vCenter=true&width=435&lines=Hi%2C+there+%F0%9F%91%8B;Welcome+to+my+GitHub+profile;Syntax+%26+Soliloquies" alt="Typing SVG" />
 
-<h1 align="center">Rijanhastwoears</h1>
+<h1 align="center">selfcriticalmass</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rijanhastwoears&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />

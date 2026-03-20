@@ -5,7 +5,7 @@
 <h1 align="center">selfcriticalmass</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rijanhastwoears&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=selfcriticalmass&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 </div>
@@ -13,14 +13,14 @@
 <!-- GitHub Stats Section -->
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rijanhastwoears&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rijanhastwoears&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=selfcriticalmass&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=selfcriticalmass&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <!-- Languages Section -->
 <div align="center">
   <h2>💻 Languages & Tools</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rijanhastwoears&layout=compact&theme=tokyonight&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selfcriticalmass&layout=compact&theme=tokyonight&langs_count=8"/>
 </div>
 
 <!-- Tech Stack Badges -->
